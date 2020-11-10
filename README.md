@@ -50,7 +50,10 @@ Because the PSX pad doesn't have a home button, I also added some code so that h
 
 When looking at the plug of the *controller cable* :
 ```
-\12x|456|7xx/
+  1  2  3   4  5  6   7  8  9
+-------------------------------
+| o  o  o | o  o  o | o  o  o |  (at the Controller)
+\_____________________________/
 
 1 : DAT        -> to arduino MISO (on ICSP header) (with 1k ohm pullup resistor*)
 2 : CMD        -> to arduino MOSI (on ICSP header)
