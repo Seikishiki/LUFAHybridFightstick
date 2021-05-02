@@ -29,6 +29,8 @@ For PC you only have access to an xinput controller with hitbox style layout + c
 
 To make the ultimate mode work as basically intended you will have to create a profile for the pro controller and change the L button to shield.
 
+DPAD can be inputted by holding MX + MY and Cstick in the wanted direction
+
 ### SOCD modes
 
 You can switch on both nintendo switch and pc between 3 socd modes pressing START+SELECT+MY+ mode key:
