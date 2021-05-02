@@ -179,6 +179,7 @@ void generate_report_switch(){
   if (buttonStatus[BUTTONL3]){ReportData.Button |= L3_MASK_ON;}
   if (buttonStatus[BUTTONR3]){ReportData.Button |= R3_MASK_ON;}
   if (buttonStatus[BUTTONCAPTURE]){ReportData.Button |= CAPTURE_MASK_ON;}
+
 }
 
 static void generate_report(){

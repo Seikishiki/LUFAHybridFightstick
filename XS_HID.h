@@ -82,8 +82,14 @@
 #define BUTTONL3 18
 #define BUTTONR3 19
 #define BUTTONHOME 20
-#define BUTTONCAPTURE 21
-byte buttonStatus[22];
+#define BUTTONMX 21
+#define BUTTONMY 22
+#define BUTTONCUP 23
+#define BUTTONCDOWN 24
+#define BUTTONCLEFT 25
+#define BUTTONCRIGHT 26
+#define BUTTONCAPTURE 27
+byte buttonStatus[28];
 
 static bool xs_xinput;
 
