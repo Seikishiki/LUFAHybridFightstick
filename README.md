@@ -2,6 +2,8 @@
 
 I was really interested in creating a box smash ultimate controller using [Crane's DIY instructions](https://github.com/Crane1195/DIYB0XX). I wanted to make one of mine work both on nintendo switch and PC and without the use of a game cube controller cable. I fused Crane's and CrazyRedMachine's code and added my own to create a controller usable on switch and PC via USB with and Arduino Leonardo.
 
+For the nintendo switch a pro controller is emulated and a 360 controller is emulated on PC
+
 ## Acknowledgments
 
 This work is based on [Crane's USB DIYBOX](https://github.com/Crane1195/DIYB0XX/tree/master/code/DIYGCC_USB_Switch_Beta) and [CrazyRedMachine LUFA stick](https://github.com/CrazyRedMachine/LUFAHybridFightstick). 
